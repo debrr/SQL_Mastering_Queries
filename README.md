@@ -1,4 +1,4 @@
-# 📊 SQL Mastering Queries: Projeto LojaSQL
+# Dominando Consultas SQL: Projeto LojaSQL
 
 ## Sobre o Projeto
 
