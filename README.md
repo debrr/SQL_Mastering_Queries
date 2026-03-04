@@ -29,25 +29,25 @@ O objetivo é evoluir progressivamente desde conceitos fundamentais (GROUP BY, J
 ---
 
 ## Estrutura do Repositório
+```
 LojaSQL/
 │
 ├── database/
-│ ├── 01_creating_tables.sql
-│ └── 02_inserting_data.sql
+│   ├── 01_creating_tables.sql
+│   └── 02_inserting_data.sql
 │
 ├── exercises/
-│ ├── 01_GROUP_BY_basico.sql
-│ ├── 02_HAVING_simples.sql
-│ ├── 03_HAVING_com_multiplas_condicoes.sql
-│ ├── 04_JOIN_com_GROUP_BY.sql
-│ ├── 05_HAVING_com_JOIN.sql
-│ ├── 06_Subqueries.sql
-│ ├── 07_Ranking_manual.sql
-│ └── 08_WINDOW_Functions.sql
+│   ├── 01_GROUP_BY_basico.sql
+│   ├── 02_HAVING_simples.sql
+│   ├── 03_HAVING_com_multiplas_condicoes.sql
+│   ├── 04_JOIN_com_GROUP_BY.sql
+│   ├── 05_HAVING_com_JOIN.sql
+│   ├── 06_Subqueries.sql
+│   ├── 07_Ranking_manual.sql
+│   └── 08_WINDOW_Functions.sql
 │
 └── README.md
-
----
+```
 
 ## Organização das Pastas
 
@@ -118,27 +118,27 @@ The goal is to progressively evolve from fundamental SQL concepts (GROUP BY, JOI
 
 ---
 
-## Repository Structure
+## 🗂 Repository Structure
+
+```
 LojaSQL/
 │
 ├── database/
-│ ├── 01_creating_tables.sql
-│ └── 02_inserting_data.sql
+│   ├── 01_creating_tables.sql
+│   └── 02_inserting_data.sql
 │
 ├── exercises/
-│ ├── 01_GROUP_BY_basico.sql
-│ ├── 02_HAVING_simples.sql
-│ ├── 03_HAVING_com_multiplas_condicoes.sql
-│ ├── 04_JOIN_com_GROUP_BY.sql
-│ ├── 05_HAVING_com_JOIN.sql
-│ ├── 06_Subqueries.sql
-│ ├── 07_Ranking_manual.sql
-│ └── 08_WINDOW_Functions.sql
+│   ├── 01_GROUP_BY_basico.sql
+│   ├── 02_HAVING_simples.sql
+│   ├── 03_HAVING_com_multiplas_condicoes.sql
+│   ├── 04_JOIN_com_GROUP_BY.sql
+│   ├── 05_HAVING_com_JOIN.sql
+│   ├── 06_Subqueries.sql
+│   ├── 07_Ranking_manual.sql
+│   └── 08_WINDOW_Functions.sql
 │
 └── README.md
-
-
----
+```
 
 ## Folder Organization
 
